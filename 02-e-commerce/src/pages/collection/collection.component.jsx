@@ -1,6 +1,5 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { createStructuredSelector } from 'reselect';
 
 import './collection.styles.scss';
 import CollectionItem from '../../components/collection-item/collection-item.component';
